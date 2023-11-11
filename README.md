@@ -1,6 +1,8 @@
 **Plataforma de Gestión de Ejercicios y Rutinas de Fitness**
 
 ![image](https://github.com/juanrestrepo2673/week-12-final-project/assets/143865568/9a551dcd-8695-4cb2-baa9-7629fe81d8ae)
+Figma URL Template: https://www.figma.com/community/file/1075318575581448204
+
 
 **Contexto:**
 Eres un desarrollador/a trabajando para una empresa especializada en fitness. La empresa desea crear una aplicación web que permita a los usuarios planificar y seguir sus ejercicios y rutinas de fitness de manera efectiva.
