@@ -37,9 +37,8 @@ Eres un desarrollador/a trabajando para una empresa especializada en fitness. La
     - Implementa la capacidad de filtrar las rutinas por duración estimada.
 
 
-1. **Estado Global:**
-    - Debe haber una sincronización del estado global que refleje el número total de ejercicios, el número de rutinas creadas y el número de rutinas compartidas.
-2. **Persistencia de Datos:**
+**Sincronización de Estado:**
+1. **Persistencia de Datos:**
     - La aplicación debe persistir los datos de ejercicios, rutinas, comentarios y registros de progreso en el almacenamiento local del navegador. Al recargar la página, la información debe mantenerse.
     
 
