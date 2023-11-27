@@ -36,7 +36,6 @@ Eres un desarrollador/a trabajando para una empresa especializada en fitness. La
 2. **Filtrado por Duración:**
     - Implementa la capacidad de filtrar las rutinas por duración estimada.
 
-**Sincronización de Estado:**
 
 1. **Estado Global:**
     - Debe haber una sincronización del estado global que refleje el número total de ejercicios, el número de rutinas creadas y el número de rutinas compartidas.
@@ -61,3 +60,30 @@ Eres un desarrollador/a trabajando para una empresa especializada en fitness. La
 **Despliegue:**
 
 - La aplicación debe estar desplegada en algún servicio de hosting gratuito y ser accesible a través de una URL pública. Indica la URL en el README.
+
+________________________________________________________
+
+**Proyecto Propio:**
+
+Si deseas entregar tu propio proyecto final ten en cuenta lo siguiente:
+
+
+
+- *Persistencia de Datos:*
+La aplicación debe persistir los datos . Al recargar la página, la información debe mantenerse.
+
+- *Consejos sobre el Código :*
+
+Estructura del Código: Organiza el código de manera clara y modular para facilitar la lectura y el mantenimiento.
+
+- Semántica HTML: Utiliza HTML semántico para mejorar la accesibilidad.
+Pensando en Equipo: Documenta tu proyecto de manera mínima pero efectiva. Añade comentarios donde sea necesario y organiza scripts en el package.json
+ 
+- Formateo del Código: Utiliza herramientas como Prettier para asegurarte de que el código esté formateado de manera consistente.
+Preparado para Producción: Optimiza el código y asegúrate de que la aplicación esté lista para producción.
+
+- Despliegue: La aplicación debe estar desplegada en algún servicio de hosting gratuito y ser accesible a través de una URL pública. Indica la URL en el README.
+Desafíos Adicionales:
+
+- Diseño Responsive: Asegúrate de que el diseño de la aplicación sea responsive para su uso en diferentes dispositivos.
+
