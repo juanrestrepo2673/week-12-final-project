@@ -1,0 +1,25 @@
+.routine {
+  width: 100%;
+  border: 1px dotted gray;
+  padding: 1rem;
+}
+
+.routinesList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.routinesList li {
+  width: 160px;
+  height: 320px;
+  background: #FDF0E4;
+  border-radius: 15px;
+  padding: 1rem;
+  font-weight: 500;
+  text-align: center;
+}
+
+.routinesList li:nth-child(2n) {
+  background: #F8F2FF;
+}

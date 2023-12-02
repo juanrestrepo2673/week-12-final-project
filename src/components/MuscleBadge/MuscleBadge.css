@@ -1,0 +1,16 @@
+.muscleBadge {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.muscleBadge span {
+    margin-top: -10px;
+    font-weight: 600;
+}
+
+.svgContainer {
+    justify-self: end;
+    align-self: center;
+    width: 40px;
+}
